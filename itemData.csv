@@ -8,11 +8,11 @@ lotr,Anduril,Anduril,16x,7,1000,12,8,none
 lotr,Narsil,Narsil,16x,8,2000,12,7,none
 lotr,Sauron's Mace,Sauron's Mace,sauronmace,14,3000,8,1,none
 lotr,Witch King's Sword,Witch King's Sword,16x,7,2500,15,6,none
-loz,Master Sword,Master Sword,16x,7,3000,15,10,none
-loz,Master Sword II,Master Sword II,16x,8,4500,10,6,none
-loz,Tempered Sword,Tempered Sword,16x,8,4500,10,6,none
-loz,Master Sword III,Master Sword III,16x,9,7000,8,5,none
-loz,Golden Sword,Golden Sword,16x,9,7000,8,5,none
+loz,Master Sword,Master Sword,16x,60,3000,15,10,none
+loz,Master Sword II,Master Sword II,16x,70,4500,10,6,none
+loz,Tempered Sword,Tempered Sword,16x,80,4500,10,6,none
+loz,Master Sword III,Master Sword III,16x,90,7000,8,5,none
+loz,Golden Sword,Golden Sword,16x,9,7000,110,5,none
 loz,Flameblade,Flameblade,16x,6,2000,10,14,none
 loz,Darknut Sword,Darknut Sword[Tp],32x,9,2800,12,4,none
 loz,Ghirahim Sword,Ghirahim Sword,32x,7,3000,18,4,none
