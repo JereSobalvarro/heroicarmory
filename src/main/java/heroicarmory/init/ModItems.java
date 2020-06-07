@@ -387,11 +387,11 @@ public class ModItems {
 	public static final ToolMaterial LOTRWITCHKINGSWORDMATERIAL = EnumHelper.addToolMaterial("LOTRWITCHKINGSWORDMATERIAL", 1, 2500, 1.0f, (float) ((7.0f) * ModConfig.damageScale - 4.0f), 15);
 
 	//loz
-	public static final ToolMaterial LOZMASTERSWORDMATERIAL = EnumHelper.addToolMaterial("LOZMASTERSWORDMATERIAL", 1, 3000, 1.0f, (float) ((25.0f) * ModConfig.damageScale - 4.0f), 15);
-	public static final ToolMaterial LOZMASTERSWORDIIMATERIAL = EnumHelper.addToolMaterial("LOZMASTERSWORDIIMATERIAL", 1, 4500, 1.0f, (float) ((35.0f) * ModConfig.damageScale - 4.0f), 10);
-	public static final ToolMaterial LOZTEMPEREDSWORDMATERIAL = EnumHelper.addToolMaterial("LOZTEMPEREDSWORDMATERIAL", 1, 4500, 1.0f, (float) ((8.0f) * ModConfig.damageScale - 4.0f), 10);
-	public static final ToolMaterial LOZMASTERSWORDIIIMATERIAL = EnumHelper.addToolMaterial("LOZMASTERSWORDIIIMATERIAL", 1, 7000, 1.0f, (float) ((9.0f) * ModConfig.damageScale - 4.0f), 8);
-	public static final ToolMaterial LOZGOLDENSWORDMATERIAL = EnumHelper.addToolMaterial("LOZGOLDENSWORDMATERIAL", 1, 7000, 1.0f, (float) ((9.0f) * ModConfig.damageScale - 4.0f), 8);
+	public static final ToolMaterial LOZMASTERSWORDMATERIAL = EnumHelper.addToolMaterial("LOZMASTERSWORDMATERIAL", 1, 3000, 1.0f, (float) ((60.0f) * ModConfig.damageScale - 4.0f), 15);
+	public static final ToolMaterial LOZMASTERSWORDIIMATERIAL = EnumHelper.addToolMaterial("LOZMASTERSWORDIIMATERIAL", 1, 4500, 1.0f, (float) ((70.0f) * ModConfig.damageScale - 4.0f), 10);
+	public static final ToolMaterial LOZTEMPEREDSWORDMATERIAL = EnumHelper.addToolMaterial("LOZTEMPEREDSWORDMATERIAL", 1, 4500, 1.0f, (float) ((80.0f) * ModConfig.damageScale - 4.0f), 10);
+	public static final ToolMaterial LOZMASTERSWORDIIIMATERIAL = EnumHelper.addToolMaterial("LOZMASTERSWORDIIIMATERIAL", 1, 7000, 1.0f, (float) ((90.0f) * ModConfig.damageScale - 4.0f), 8);
+	public static final ToolMaterial LOZGOLDENSWORDMATERIAL = EnumHelper.addToolMaterial("LOZGOLDENSWORDMATERIAL", 1, 7000, 1.0f, (float) ((110.0f) * ModConfig.damageScale - 4.0f), 8);
 	public static final ToolMaterial LOZFLAMEBLADEMATERIAL = EnumHelper.addToolMaterial("LOZFLAMEBLADEMATERIAL", 1, 2000, 1.0f, (float) ((6.0f) * ModConfig.damageScale - 4.0f), 10);
 	public static final ToolMaterial LOZDARKNUTSWORDTPMATERIAL = EnumHelper.addToolMaterial("LOZDARKNUTSWORDTPMATERIAL", 1, 2800, 1.0f, (float) ((9.0f) * ModConfig.damageScale - 4.0f), 12);
 	public static final ToolMaterial LOZGHIRAHIMSWORDMATERIAL = EnumHelper.addToolMaterial("LOZGHIRAHIMSWORDMATERIAL", 1, 3000, 1.0f, (float) ((7.0f) * ModConfig.damageScale - 4.0f), 18);
